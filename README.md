@@ -1,0 +1,2 @@
+# aws_ai_language_services_sample
+AWSの自然言語AIサービスを利用したサンプルコード
